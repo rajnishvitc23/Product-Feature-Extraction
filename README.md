@@ -4,9 +4,9 @@
 
 This Streamlit app allows you to upload a CSV file of product reviews, automatically extract product features using the FLAN-T5 language model, group features by sentiment (Positive, Neutral, Negative) based on review ratings, and visualize the results with interactive charts and summary statistics.
 
-# Deployed here:: 
+Deployed here:: 
 
-([https://app-starter-kit.streamlit.app/](https://feature-extraction-flan-t5.streamlit.app/)
+[https://app-starter-kit.streamlit.app/](https://feature-extraction-flan-t5.streamlit.app/
 
 ## GitHub Codespaces
 
