@@ -24,11 +24,6 @@ This Streamlit app allows you to upload a CSV file of product reviews, automatic
   - Summary statistics (unique features, most/least frequent, average rating).
 - **Download** the results as a CSV file.
 
-## Demo
-
-  
-*Replace with your own screenshot if desired.*
-
 ## Getting Started
 
 ### 1. Clone the Repository
