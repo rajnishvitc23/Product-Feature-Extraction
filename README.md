@@ -8,9 +8,6 @@ Deployed here::
 
 [[https://app-starter-kit.streamlit.app/](https://feature-extraction-flan-t5.streamlit.app/
 ](https://feature-extraction-flan-t5.streamlit.app/)
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
 ## Features
 
